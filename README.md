@@ -34,7 +34,7 @@
 ```go
 type Developer struct {
     Name         string   = "Tahcin Ul Karim Mycin"
-    Role         string   = "Full-Stack Developer & System Architect"
+    Role         string   = "Full-Stack Developer & Passionate Programmer"
     Location     string   = "🇧🇩 Dhaka, Bangladesh"
     Specialties  []string = ["Backend Systems", "Web Applications", "System Design"]
     Languages    []string = ["Go", "Rust", "Python", "TypeScript", "JavaScript"]
