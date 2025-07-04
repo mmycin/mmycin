@@ -281,12 +281,12 @@ func (d *Developer) GetCurrentFocus() []string {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmycin&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmycin&theme=radical&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mmycin&theme=radical&hide_border=false&include_all_commits=true&count_private=true&rank_icon=percentile" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmycin&theme=radical&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmycin&theme=radical&hide_border=true&layout=donut&langs_count=6&exclude_repo=TodoList-API,NDC-14,Rooftime-App,ndc14NoticeFrontend,NDC14-App,Circuit-Bunny-Shop&hide=html,css,jupyter%20notebook,batchfile" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmycin&theme=radical&hide_border=true&layout=donut&langs_count=6&exclude_repo=TodoList-API,NDC-14,Rooftime-App,ndc14NoticeFrontend,NDC14-App,Circuit-Bunny-Shop&hide=html,css,jupyter%20notebook,batchfile" width="300" />
 </div>
 
 ---
