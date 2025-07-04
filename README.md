@@ -1,6 +1,6 @@
 <div align="center">
   
-# ✨ Code Shenanigans & Digital Delights ✨
+# ✨ Code Shenanigans ✨
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Tahcin+Ul+Karim+Mycin;Full-Stack+Developer+%7C+System+Architect;Go+%7C+Rust+%7C+Python+Expert;Building+Tomorrow's+Applications+Today+%F0%9F%9A%80;Open+Source+Enthusiast+%26+Tech+Educator+%F0%9F%8C%9F" alt="Typing SVG" />
 
