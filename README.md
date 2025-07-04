@@ -286,7 +286,7 @@ func (d *Developer) GetCurrentFocus() []string {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmycin&theme=radical&hide_border=true&layout=donut&langs_count=6&exclude_repo=TodoList-API,NDC-14,Rooftime-App,ndc14NoticeFrontend,NDC14-App,Circuit-Bunny-Shop&hide=html,css,jupyter%20notebook,batchfile" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmycin&theme=radical&hide_border=true&layout=donut&langs_count=6&exclude_repo=TodoList-API,NDC-14,Rooftime-App,ndc14NoticeFrontend,NDC14-App,Circuit-Bunny-Shop&hide=html,css,jupyter%20notebook,batchfile" width="330" />
 </div>
 
 ---
