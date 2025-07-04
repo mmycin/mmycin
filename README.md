@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Welcome to My Digital Universe
+# ✨ Code Shenanigans & Digital Delights ✨
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Tahcin+Ul+Karim+Mycin;Full-Stack+Developer+%7C+System+Architect;Go+%7C+Rust+%7C+Python+Expert;Building+Tomorrow's+Applications+Today+%F0%9F%9A%80;Open+Source+Enthusiast+%26+Tech+Educator+%F0%9F%8C%9F" alt="Typing SVG" />
 
@@ -61,58 +61,152 @@ func (d *Developer) GetCurrentFocus() []string {
 
 ## 🛠️ Technology Arsenal
 
-### 💻 Core Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=go,rust,python,js,ts,c,cpp,cs" />
-</p>
+<table>
+  <tr>
+    <td align="center" style="border: none; padding: 20px;">
+      <h3>💻 Core Languages</h3>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+        <img src="https://skillicons.dev/icons?i=go" width="50" />
+        <img src="https://skillicons.dev/icons?i=rust" width="50" />
+        <img src="https://skillicons.dev/icons?i=python" width="50" />
+        <img src="https://skillicons.dev/icons?i=js" width="50" />
+        <img src="https://skillicons.dev/icons?i=ts" width="50" />
+        <img src="https://skillicons.dev/icons?i=c" width="50" />
+        <img src="https://skillicons.dev/icons?i=cpp" width="50" />
+        <img src="https://skillicons.dev/icons?i=cs" width="50" />
+      </div>
+      <br />
+      <img src="https://img.shields.io/badge/Go-Expert-00ADD8?style=flat-square&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/Rust-Advanced-DEA584?style=flat-square&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <h3>🚀 Backend Frameworks</h3>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+        <img src="https://skillicons.dev/icons?i=gin" width="50" />
+        <img src="https://skillicons.dev/icons?i=rocket" width="50" />
+        <img src="https://skillicons.dev/icons?i=actix" width="50" />
+        <img src="https://skillicons.dev/icons?i=django" width="50" />
+        <img src="https://skillicons.dev/icons?i=flask" width="50" />
+        <img src="https://skillicons.dev/icons?i=fastapi" width="50" />
+        <img src="https://skillicons.dev/icons?i=express" width="50" />
+        <img src="https://skillicons.dev/icons?i=nodejs" width="50" />
+      </div>
+      <br />
+      <img src="https://img.shields.io/badge/Gin-Go_Framework-00ADD8?style=flat-square&logo=go" />
+      <img src="https://img.shields.io/badge/Rocket-Rust_Framework-DEA584?style=flat-square&logo=rust" />
+      <img src="https://img.shields.io/badge/FastAPI-Python_Framework-009688?style=flat-square&logo=fastapi" />
+      <img src="https://img.shields.io/badge/Express-Node.js_Framework-000000?style=flat-square&logo=express" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none; padding: 20px;">
+      <h3>🎨 Frontend Technologies</h3>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+        <img src="https://skillicons.dev/icons?i=react" width="50" />
+        <img src="https://skillicons.dev/icons?i=nextjs" width="50" />
+        <img src="https://skillicons.dev/icons?i=svelte" width="50" />
+        <img src="https://skillicons.dev/icons?i=vue" width="50" />
+        <img src="https://skillicons.dev/icons?i=tailwind" width="50" />
+        <img src="https://skillicons.dev/icons?i=sass" width="50" />
+        <img src="https://skillicons.dev/icons?i=vite" width="50" />
+        <img src="https://skillicons.dev/icons?i=webpack" width="50" />
+      </div>
+      <br />
+      <img src="https://img.shields.io/badge/React-Expert-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-Advanced-000000?style=flat-square&logo=next.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Svelte-Advanced-FF3E00?style=flat-square&logo=svelte&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-Expert-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <h3>🗄️ Database & Storage</h3>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="50" />
+        <img src="https://skillicons.dev/icons?i=postgres" width="50" />
+        <img src="https://skillicons.dev/icons?i=mysql" width="50" />
+        <img src="https://skillicons.dev/icons?i=sqlite" width="50" />
+        <img src="https://skillicons.dev/icons?i=redis" width="50" />
+      </div>
+      <br />
+      <img src="https://img.shields.io/badge/MongoDB-Expert-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-Advanced-336791?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-Advanced-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prisma-Expert-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none; padding: 20px;">
+      <h3>📱 Cross-Platform Development</h3>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+        <img src="https://skillicons.dev/icons?i=tauri" width="50" />
+        <img src="https://skillicons.dev/icons?i=electron" width="50" />
+        <img src="https://skillicons.dev/icons?i=flutter" width="50" />
+        <img src="https://skillicons.dev/icons?i=qt" width="50" />
+      </div>
+      <br />
+      <img src="https://img.shields.io/badge/Tauri-Rust_Desktop-FFC131?style=flat-square&logo=tauri&logoColor=white" />
+      <img src="https://img.shields.io/badge/Electron-Desktop_Apps-47848F?style=flat-square&logo=electron&logoColor=white" />
+      <img src="https://img.shields.io/badge/Capacitor-Hybrid_Apps-119EFF?style=flat-square&logo=capacitor&logoColor=white" />
+      <img src="https://img.shields.io/badge/Expo-React_Native-000020?style=flat-square&logo=expo&logoColor=white" />
+    </td>
+    <td align="center" style="border: none; padding: 20px;">
+      <h3>⚙️ DevOps & Cloud</h3>
+      <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+        <img src="https://skillicons.dev/icons?i=docker" width="50" />
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="50" />
+        <img src="https://skillicons.dev/icons?i=git" width="50" />
+        <img src="https://skillicons.dev/icons?i=linux" width="50" />
+        <img src="https://skillicons.dev/icons?i=bash" width="50" />
+        <img src="https://skillicons.dev/icons?i=nginx" width="50" />
+        <img src="https://skillicons.dev/icons?i=vercel" width="50" />
+        <img src="https://skillicons.dev/icons?i=aws" width="50" />
+      </div>
+      <br />
+      <img src="https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-Expert-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-Advanced-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
-### 🚀 Backend Powerhouse
-<p>
-  <img src="https://skillicons.dev/icons?i=gin,rocket,actix,django,flask,fastapi,express,nodejs" />
-  <br />
-  <img src="https://img.shields.io/badge/Hono-Fast_Web_Framework-FF6B35?style=for-the-badge&logo=hono" />
-  <img src="https://img.shields.io/badge/Elysia-Bun_Framework-3178C6?style=for-the-badge&logo=bun" />
-  <img src="https://img.shields.io/badge/Fiber-Go_Framework-00ADD8?style=for-the-badge&logo=go" />
-</p>
+### 🎯 Specialized Skills
 
-### 🎨 Frontend Mastery
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,svelte,vue,tailwind,sass" />
-  <br />
-  <img src="https://img.shields.io/badge/shadcn/ui-Modern_Components-000000?style=for-the-badge&logo=shadcnui" />
-  <img src="https://img.shields.io/badge/DaisyUI-Tailwind_Components-5A67D8?style=for-the-badge&logo=daisyui" />
-</p>
-
-### 🏗️ Full-Stack Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,sveltekit,django,phoenix,dotnet" />
-</p>
-
-### 📱 Cross-Platform Development
-<p>
-  <img src="https://skillicons.dev/icons?i=tauri,electron,capacitor,expo,flutter" />
-  <br />
-  <img src="https://img.shields.io/badge/Slint-Rust_UI-FF6B35?style=for-the-badge&logo=rust" />
-</p>
-
-### 🗄️ Database & Storage
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis" />
-  <br />
-  <img src="https://img.shields.io/badge/Prisma-Next_Gen_ORM-2D3748?style=for-the-badge&logo=prisma" />
-  <img src="https://img.shields.io/badge/Drizzle-TypeScript_ORM-C5F74F?style=for-the-badge&logo=drizzle" />
-</p>
-
-### ⚙️ DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,bash,nginx" />
-  <br />
-  <img src="https://img.shields.io/badge/Railway-Cloud_Platform-0B0D0E?style=for-the-badge&logo=railway" />
-  <img src="https://img.shields.io/badge/Vercel-Edge_Platform-000000?style=for-the-badge&logo=vercel" />
-</p>
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="border: none; padding: 15px;">
+        <img src="https://img.shields.io/badge/🏗️-System_Architecture-4A90E2?style=for-the-badge" />
+        <br />
+        <img src="https://img.shields.io/badge/Microservices-Expert-28A745?style=flat-square" />
+        <img src="https://img.shields.io/badge/Event_Driven-Advanced-FF6B35?style=flat-square" />
+        <img src="https://img.shields.io/badge/Clean_Architecture-Expert-007ACC?style=flat-square" />
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <img src="https://img.shields.io/badge/🚀-Performance-FF6B35?style=for-the-badge" />
+        <br />
+        <img src="https://img.shields.io/badge/Optimization-Expert-DC382D?style=flat-square" />
+        <img src="https://img.shields.io/badge/Caching-Advanced-47A248?style=flat-square" />
+        <img src="https://img.shields.io/badge/Load_Balancing-Advanced-336791?style=flat-square" />
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <img src="https://img.shields.io/badge/🔐-Security-DC143C?style=for-the-badge" />
+        <br />
+        <img src="https://img.shields.io/badge/Authentication-Expert-4A90E2?style=flat-square" />
+        <img src="https://img.shields.io/badge/Authorization-Advanced-28A745?style=flat-square" />
+        <img src="https://img.shields.io/badge/Data_Protection-Advanced-FF6B35?style=flat-square" />
+      </td>
+      <td align="center" style="border: none; padding: 15px;">
+        <img src="https://img.shields.io/badge/🤖-AI/ML-9C27B0?style=for-the-badge" />
+        <br />
+        <img src="https://img.shields.io/badge/Machine_Learning-Intermediate-3776AB?style=flat-square" />
+        <img src="https://img.shields.io/badge/Data_Science-Intermediate-FF6B35?style=flat-square" />
+        <img src="https://img.shields.io/badge/Neural_Networks-Learning-DC382D?style=flat-square" />
+      </td>
+    </tr>
+  </table>
 </div>
-
 ---
 
 ## 🌟 Featured Projects
