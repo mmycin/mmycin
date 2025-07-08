@@ -314,6 +314,8 @@ func (d *Developer) GetCurrentFocus() []string {
 
 ---
 
+# Currently Learning
+
 <div align="center">
   <table>
     <tr>
