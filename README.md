@@ -77,7 +77,7 @@ func (d *Developer) GetCurrentFocus() []string {
       </div>
       <br />
       <img src="https://img.shields.io/badge/Go-Expert-00ADD8?style=flat-square&logo=go&logoColor=white" />
-      <img src="https://img.shields.io/badge/Rust-Advanced-DEA584?style=flat-square&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/Rust-Intermediate-DEA584?style=flat-square&logo=rust&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=flat-square&logo=typescript&logoColor=white" />
     </td>
@@ -109,9 +109,7 @@ func (d *Developer) GetCurrentFocus() []string {
         <img src="https://skillicons.dev/icons?i=svelte" width="50" />
         <img src="https://skillicons.dev/icons?i=vue" width="50" />
         <img src="https://skillicons.dev/icons?i=tailwind" width="50" />
-        <img src="https://skillicons.dev/icons?i=sass" width="50" />
         <img src="https://skillicons.dev/icons?i=vite" width="50" />
-        <img src="https://skillicons.dev/icons?i=webpack" width="50" />
       </div>
       <br />
       <img src="https://img.shields.io/badge/React-Expert-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -129,10 +127,12 @@ func (d *Developer) GetCurrentFocus() []string {
         <img src="https://skillicons.dev/icons?i=redis" width="50" />
       </div>
       <br />
-      <img src="https://img.shields.io/badge/MongoDB-Expert-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-Advanced-336791?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-Advanced-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/Prisma-Expert-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prisma-ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Drizzle-ORM-2D3748?style=flat-square&logo=drizzle&logoColor=white" />
+      <img src="https://img.shields.io/badge/sqlc-Codegen-2D3748?style=flat-square&logo=sqlite&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -141,7 +141,6 @@ func (d *Developer) GetCurrentFocus() []string {
       <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
         <img src="https://skillicons.dev/icons?i=tauri" width="50" />
         <img src="https://skillicons.dev/icons?i=electron" width="50" />
-        <img src="https://skillicons.dev/icons?i=flutter" width="50" />
         <img src="https://skillicons.dev/icons?i=qt" width="50" />
       </div>
       <br />
@@ -154,17 +153,14 @@ func (d *Developer) GetCurrentFocus() []string {
       <h3>⚙️ DevOps & Cloud</h3>
       <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
         <img src="https://skillicons.dev/icons?i=docker" width="50" />
-        <img src="https://skillicons.dev/icons?i=kubernetes" width="50" />
         <img src="https://skillicons.dev/icons?i=git" width="50" />
         <img src="https://skillicons.dev/icons?i=linux" width="50" />
         <img src="https://skillicons.dev/icons?i=bash" width="50" />
         <img src="https://skillicons.dev/icons?i=nginx" width="50" />
         <img src="https://skillicons.dev/icons?i=vercel" width="50" />
-        <img src="https://skillicons.dev/icons?i=aws" width="50" />
       </div>
       <br />
-      <img src="https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kubernetes-Intermediate-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-Intermediate-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-Expert-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-Advanced-FCC624?style=flat-square&logo=linux&logoColor=black" />
     </td>
@@ -174,40 +170,51 @@ func (d *Developer) GetCurrentFocus() []string {
 ### 🎯 Specialized Skills
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" style="border: none; padding: 15px;">
-        <img src="https://img.shields.io/badge/🏗️-System_Architecture-4A90E2?style=for-the-badge" />
-        <br />
-        <img src="https://img.shields.io/badge/Microservices-Expert-28A745?style=flat-square" />
-        <img src="https://img.shields.io/badge/Event_Driven-Advanced-FF6B35?style=flat-square" />
-        <img src="https://img.shields.io/badge/Clean_Architecture-Expert-007ACC?style=flat-square" />
-      </td>
-      <td align="center" style="border: none; padding: 15px;">
-        <img src="https://img.shields.io/badge/🚀-Performance-FF6B35?style=for-the-badge" />
-        <br />
-        <img src="https://img.shields.io/badge/Optimization-Expert-DC382D?style=flat-square" />
-        <img src="https://img.shields.io/badge/Caching-Advanced-47A248?style=flat-square" />
-        <img src="https://img.shields.io/badge/Load_Balancing-Advanced-336791?style=flat-square" />
-      </td>
-      <td align="center" style="border: none; padding: 15px;">
-        <img src="https://img.shields.io/badge/🔐-Security-DC143C?style=for-the-badge" />
-        <br />
-        <img src="https://img.shields.io/badge/Authentication-Expert-4A90E2?style=flat-square" />
-        <img src="https://img.shields.io/badge/Authorization-Advanced-28A745?style=flat-square" />
-        <img src="https://img.shields.io/badge/Data_Protection-Advanced-FF6B35?style=flat-square" />
-      </td>
-      <td align="center" style="border: none; padding: 15px;">
-        <img src="https://img.shields.io/badge/🤖-AI/ML-9C27B0?style=for-the-badge" />
-        <br />
-        <img src="https://img.shields.io/badge/Machine_Learning-Intermediate-3776AB?style=flat-square" />
-        <img src="https://img.shields.io/badge/Data_Science-Intermediate-FF6B35?style=flat-square" />
-        <img src="https://img.shields.io/badge/Neural_Networks-Learning-DC382D?style=flat-square" />
-      </td>
-    </tr>
-  </table>
+
+<table>
+  <tr>
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="https://img.shields.io/badge/🏗️-Architecture-4A90E2?style=for-the-badge" /><br />
+      <img src="https://img.shields.io/badge/Microservices-Expert-2F855A?style=flat-square" />
+      <img src="https://img.shields.io/badge/Clean_Architecture-Expert-007ACC?style=flat-square" />
+      <img src="https://img.shields.io/badge/Event_Driven_Design-Advanced-FFB400?style=flat-square" />
+    </td>
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="https://img.shields.io/badge/⚙️-System_Engineering-FF6B35?style=for-the-badge" /><br />
+      <img src="https://img.shields.io/badge/Performance_Tuning-Expert-DC382D?style=flat-square" />
+      <img src="https://img.shields.io/badge/API_Design-Expert-00B8D9?style=flat-square" />
+      <img src="https://img.shields.io/badge/Concurrency_in_Go-Advanced-00ADD8?style=flat-square" />
+    </td>
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="https://img.shields.io/badge/🔐-Security_Practices-DC143C?style=for-the-badge" /><br />
+      <img src="https://img.shields.io/badge/JWT_Auth%20&%20Sessions-Expert-4A90E2?style=flat-square" />
+      <img src="https://img.shields.io/badge/Data_Encryption-Advanced-FF6B35?style=flat-square" />
+      <img src="https://img.shields.io/badge/Secure_API_Design-Critical-6C3483?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="https://img.shields.io/badge/🧰-Problem_Solving-24292F?style=for-the-badge" /><br />
+      <img src="https://img.shields.io/badge/Algorithm_Design-Advanced-28A745?style=flat-square" />
+      <img src="https://img.shields.io/badge/Debugging&Profiling-Expert-8E44AD?style=flat-square" />
+      <img src="https://img.shields.io/badge/Design_Patterns-Advanced-2C3E50?style=flat-square" />
+    </td>
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="https://img.shields.io/badge/📦-System_Deployment-6E44FF?style=for-the-badge" /><br />
+      <img src="https://img.shields.io/badge/Dockerized_Apps-Advanced-0db7ed?style=flat-square" />
+      <img src="https://img.shields.io/badge/CI/CD_Pipelines-Advanced-111?style=flat-square" />
+      <img src="https://img.shields.io/badge/Platform_Abstraction-Cross-Platform-1ABC9C?style=flat-square" />
+    </td>
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="https://img.shields.io/badge/🎯-Software_Craftsmanship-F39C12?style=for-the-badge" /><br />
+      <img src="https://img.shields.io/badge/Test_Driven_Development-Advanced-27AE60?style=flat-square" />
+      <img src="https://img.shields.io/badge/Readable%20&%20Minimal%20Code-Focus-34495E?style=flat-square" />
+      <img src="https://img.shields.io/badge/Open_Source_Spirit-Contributor-E74C3C?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
 </div>
----
 
 ## 🌟 Featured Projects
 
@@ -281,7 +288,7 @@ func (d *Developer) GetCurrentFocus() []string {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmycin&theme=radical&hide_border=false&include_all_commits=true&count_private=true&rank_icon=percentile" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=mmycin&theme=radical&hide_border=false&include_all_commits=true&count_private=true&rank_icon=percentile&cache_seconds=7200" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmycin&theme=radical&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="170" />
 </div>
 
@@ -307,44 +314,43 @@ func (d *Developer) GetCurrentFocus() []string {
 
 ---
 
-## 🚀 Current Learning Journey
-
 <div align="center">
   <table>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://img.shields.io/badge/🦀_Rust-Systems_Programming-DEA584?style=for-the-badge&logo=rust" />
+        <img src="https://img.shields.io/badge/🧵_Golang-Concurrency_&_Optimizations-00ADD8?style=for-the-badge&logo=go" />
         <br />
-        <strong>Advanced Rust Concepts</strong>
+        <strong>Mastering Concurrency in Go</strong>
         <br />
-        <em>Memory safety, concurrency, and performance</em>
+        <em>goroutines, wait groups, mutexes, channels</em>
       </td>
       <td align="center" style="border: none;">
-        <img src="https://img.shields.io/badge/🏗️_Architecture-System_Design-4A90E2?style=for-the-badge&logo=architecture" />
+        <img src="https://img.shields.io/badge/🏗️_Architecture-System_Design-4A90E2?style=for-the-badge" />
         <br />
-        <strong>Scalable System Design</strong>
+        <strong>Scalable Architecture Patterns</strong>
         <br />
-        <em>Microservices, event-driven architecture</em>
+        <em>Clean architecture, microservices, event-driven</em>
       </td>
     </tr>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://img.shields.io/badge/🤖_AI/ML-Machine_Learning-FF6B35?style=for-the-badge&logo=tensorflow" />
+        <img src="https://img.shields.io/badge/📱_Cross_Platform-Mobile_&_Desktop_Apps-FF6B35?style=for-the-badge&logo=capacitor" />
         <br />
-        <strong>AI/ML Integration</strong>
+        <strong>Capacitor + Tauri Integration</strong>
         <br />
-        <em>Python ML with systems programming</em>
+        <em>Building unified apps with SvelteKit + Go</em>
       </td>
       <td align="center" style="border: none;">
-        <img src="https://img.shields.io/badge/📚_Teaching-Knowledge_Sharing-28A745?style=for-the-badge&logo=academia" />
+        <img src="https://img.shields.io/badge/📚_Knowledge-Sharing_&_Docs-28A745?style=for-the-badge&logo=gitbook" />
         <br />
-        <strong>Technical Writing</strong>
+        <strong>Open Source & Documentation</strong>
         <br />
-        <em>Creating educational content</em>
+        <em>Crafting developer-friendly tools and guides</em>
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 
