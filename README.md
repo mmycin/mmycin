@@ -234,8 +234,8 @@ func (d *Developer) GetCurrentFocus() []string {
     </tr>
     <tr>
       <td align="center" style="border: none; padding: 20px;">
-        <a href="https://github.com/mmycin/Saint-Joseph-Website">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmycin&repo=Saint-Joseph-Website&theme=github_dark&hide_border=true&card_width=320" width="320" />
+        <a href="https://github.com/mmycin/intralb">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmycin&repo=intralb&theme=github_dark&hide_border=true&card_width=320" width="320" />
         </a>
       </td>
       <td align="center" style="border: none; padding: 20px;">
@@ -246,13 +246,13 @@ func (d *Developer) GetCurrentFocus() []string {
     </tr>
     <tr>
       <td align="center" style="border: none; padding: 20px;">
-        <a href="https://github.com/mmycin/commander">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmycin&repo=commander&theme=github_dark&hide_border=true&card_width=320" width="320" />
+        <a href="https://github.com/mmycin/Saint-Joseph-Website">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmycin&repo=Saint-Joseph-Website&theme=github_dark&hide_border=true&card_width=320" width="320" />
         </a>
       </td>
       <td align="center" style="border: none; padding: 20px;">
-        <a href="https://github.com/mmycin/weather-ai-agent">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmycin&repo=weather-ai-agent&theme=github_dark&hide_border=true&card_width=320" width="320" />
+        <a href="https://github.com/mmycin/commander">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mmycin&repo=commander&theme=github_dark&hide_border=true&card_width=320" width="320" />
         </a>
       </td>
     </tr>
