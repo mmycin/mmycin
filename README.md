@@ -314,47 +314,6 @@ func (d *Developer) GetCurrentFocus() []string {
 
 ---
 
-# Currently Learning
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://img.shields.io/badge/🧵_Golang-Concurrency_&_Optimizations-00ADD8?style=for-the-badge&logo=go" />
-        <br />
-        <strong>Mastering Concurrency in Go</strong>
-        <br />
-        <em>goroutines, wait groups, mutexes, channels</em>
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://img.shields.io/badge/🏗️_Architecture-System_Design-4A90E2?style=for-the-badge" />
-        <br />
-        <strong>Scalable Architecture Patterns</strong>
-        <br />
-        <em>Clean architecture, microservices, event-driven</em>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://img.shields.io/badge/📱_Cross_Platform-Mobile_&_Desktop_Apps-FF6B35?style=for-the-badge&logo=capacitor" />
-        <br />
-        <strong>Capacitor + Tauri Integration</strong>
-        <br />
-        <em>Building unified apps with SvelteKit + Go</em>
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://img.shields.io/badge/📚_Knowledge-Sharing_&_Docs-28A745?style=for-the-badge&logo=gitbook" />
-        <br />
-        <strong>Open Source & Documentation</strong>
-        <br />
-        <em>Crafting developer-friendly tools and guides</em>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
----
 
 ## 💡 Professional Strengths
 
